@@ -10,10 +10,10 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 - 👨‍💻 Linguagens: `Java`, `Python`, `JavaScript`, `SQL`
-- 🌐 Front-end: `REACT`, `Tailwind`, `CSS`, `HTML`
-- 🔙 Back-end: `Spring Boot`
+- 🌐 Front-end: `REACT`, `Tailwind CSS`, `CSS`, `HTML`
+- 🔙 Back-end: `Spring Framework`, `JPA`, `Hibernate`
 - 🧠 Banco de Dados: `pgAdmin`, `PostgreSQL`
-- 🧰 Outras ferramentas: `Git`, `Figma`, `Jira`, `Postman`
+- 🧰 Outras ferramentas: `Git`, `Figma`, `Jira`, `Docker` 
 
 ---
 
