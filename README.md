@@ -19,7 +19,6 @@
 
 ## 📌 Projetos em destaque 
 - 🔹 **Urbaniza** – Plataforma para registro e denúncia de problemas urbanos  
-- 🔹 **Desafios de lógica** – Repositório com estudos e desafios em Python
 
 *Acesse meus repositórios para saber mais!*
 
