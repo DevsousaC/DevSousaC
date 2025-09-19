@@ -1,11 +1,6 @@
 # 👋 Olá! Eu sou o Diego
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC de Cotia  
-💻 Apaixonado por **tecnologia** e **resolução de problemas com código**  
-🔧 Desenvolvendo minhas habilidades em back-end e segurança da informação  
-🚀 Em busca de oportunidades para crescer como **desenvolvedor full stack**
-
----
+Student of **Multiplatform Software Development** at FATEC de Cotia , passionate about **technology** and **troubleshooting with code**, developing my skills in back-end and information security .
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -20,25 +15,6 @@
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
----
-
-## 📌 Projetos em destaque 
-🔹 **Urbaniza** – Plataforma para registro e denúncia de problemas urbanos
-
-🔹 **Auditoria Botium Toys** – Auditoria de segurança em empresa fictica como parte do curso **Google Manage Security Risks**
-
-🔹 **Dev release** – Projeto NodeJs criado para ser meu diario dev
-
-*Acesse meus repositórios para saber mais!*
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdiego/)
-
-📧 E-mail: devdiegosousa@gmail.com  
-📍 São Paulo - SP
 
 ---
 
